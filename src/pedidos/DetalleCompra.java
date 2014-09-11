@@ -6,7 +6,7 @@
 package pedidos;
 
 import BasedeDatos.Conexion;
-import com.mysql.jdbc.ResultSet;
+import java.sql.ResultSet;
 import java.sql.SQLException;
 import javax.swing.table.DefaultTableModel;
 
